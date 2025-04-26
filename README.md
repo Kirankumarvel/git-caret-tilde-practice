@@ -19,7 +19,7 @@ This project is designed to help you understand how to navigate Git commits usin
 
 ```bash
 # Clone the repo (after you create it)
-git clone https://github.com/yourusername/git-caret-tilde-practice.git
+git clone https://github.com/Kirankumarvel/git-caret-tilde-practice.git
 cd git-caret-tilde-practice
 ```
 
